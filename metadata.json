@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix: Remix: Al Huson Sports Club App",
+  "description": "Al Huson Sports Club portal combining an immersive subscriber mobile application simulator and a powerful administration dashboard. Tracks memberships, physical progress, service bookings, and includes a virtual AI trainer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
